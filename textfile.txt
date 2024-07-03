@@ -1,0 +1,5 @@
+mohammed;admin
+bob;dev,marketing
+flex;hr
+hng;admin,devops
+abdi;devops
